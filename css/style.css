@@ -1,0 +1,12 @@
+/* Обнуляющий стиль */
+@import "nullstyle.css";
+/* &display=swap */
+/*--------------------------------*/
+.wrapper{
+	min-height: 100%;
+	overflow: hidden;
+}
+[class*="__contaoner"]{
+	max-width: 1232px;
+	margin: 0px auto;
+}
