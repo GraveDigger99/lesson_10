@@ -6,7 +6,7 @@
 	min-height: 100%;
 	overflow: hidden;
 }
-[class*="__contaoner"]{
+[class*="__container"]{
 	max-width: 1232px;
 	margin: 0px auto;
 }
